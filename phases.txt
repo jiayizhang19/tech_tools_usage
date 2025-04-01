@@ -1,0 +1,16 @@
+Periods of Git Usage
+    1. Initialization: start a git repository
+      --> git init 
+      --> git clone
+    2. Working area (Untracked Changes)
+      --> git status
+      --> This is where you create, modify or delete files. Git knows about the files but hasn't started tracking the changes yet.
+    3. Staging Area (Staged Changes)
+      --> git add [file_name] or git add .
+      --> This is where you define which changes should be saved in the next commit by staging them
+    4. Local Repository (Tracked Changes)
+      --> git commit -m "message"
+      --> This is where your staged changes are saved as a commit, which acts as a snapshot of your project at that moment.
+    5. Remote Repository (Tracked Changes)
+      --> git push
+      --> This is where you push your commits to a remote repo to share or back up your work.
