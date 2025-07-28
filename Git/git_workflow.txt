@@ -1,8 +1,0 @@
-Commands related to branches:
- --> git branch: show all local branches
- --> git branch -r : show all remote branches
- --> git branch xxx : create a new branch xxx
- --> git checkout xxx: switch to an existing branch xxx
- --> git branch -m xxx: rename the current branch to xxx
- --> git branch -d xxx : delete a local branch xxx
-

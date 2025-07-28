@@ -1,8 +1,0 @@
-Commands to check login user:
- --> git config user.name
- --> git congif user.email
-
-Commands to change login user:
- --> git config --global user.name xxx
- --> git config --global user.email xxx
- --> git commit --amend --reset-author
